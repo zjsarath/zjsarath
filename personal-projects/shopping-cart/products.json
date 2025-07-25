@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "ProductName": "Apple MacBook Air M2",
+      "UnitPrice": 1099,
+      "UnitsInStock": 10,
+      "ImageUrl": "/images/macbook.jpg",
+      "Suppliers": [
+        {
+          "CompanyName": "Apple Inc"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "ProductName": "Apple iPhone 16 Pro Max",
+      "UnitPrice": 1399,
+      "UnitsInStock": 15,
+      "ImageUrl": "/images/iphone.jpg",
+      "Suppliers": [
+        {
+          "CompanyName": "Apple Inc"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "ProductName": "Apple Watch Series 9",
+      "UnitPrice": 499,
+      "UnitsInStock": 20,
+      "ImageUrl": "/images/watch.jpg",
+      "Suppliers": [
+        {
+          "CompanyName": "Apple Inc"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "ProductName": "Apple USB-C Adapter",
+      "UnitPrice": 19,
+      "UnitsInStock": 1,
+      "ImageUrl": "/images/adapter.jpg",
+      "Suppliers": [
+        {
+          "CompanyName": "Apple Inc"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "ProductName": "AirPods Pro 2",
+      "UnitPrice": 249,
+      "UnitsInStock": 25,
+      "ImageUrl": "/images/airpods.jpg",
+      "Suppliers": [
+        {
+          "CompanyName": "Apple Inc"
+        }
+      ]
+    }
+  ]
+}
