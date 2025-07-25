@@ -1,4 +1,48 @@
+# 🛒 React Shopping Cart
+
+A beginner-friendly shopping cart application built using **React**, showcasing core frontend development concepts such as reusable components, routing, state management, and JSON-driven product rendering.
+
+---
+
+## 🚀 Features
+
+- 🛍️ Product listing page with item details
+- ➕ Add/remove items from cart
+- 🔢 Cart quantity updates
+- 💰 Real-time cart total calculation
+- 🔀 Routing using `react-router-dom`
+- 📁 Dummy product data powered by a `products.json` file
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** (Create React App)
+- **React Router DOM**
+- **HTML5/CSS3**
+- **JavaScript (ES6+)**
+- **JSON (static data source)**
+
+---
+
 # Getting Started with Create React App
+
+## 📦 Available Scripts
+
+To run this project locally:
+
+```bash
+# Install dependencies
+npm install
+
+# Start the dev server
+npm start
+
+# Run tests
+npm test
+
+# Build for production
+npm run build
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -41,32 +85,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
