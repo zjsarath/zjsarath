@@ -1,44 +1,47 @@
 # 👋 Hi, I'm Sarath Ramachandran
 
 🚀 Aspiring Software Developer | Software Quality Engineer at William Hill  
-🎓 Currently pursuing a Level 4 Software Developer Apprenticeship (QA Ltd)
+🎓 Pursuing a Level 4 Software Developer Apprenticeship with QA Ltd (2025–2026)
 
 ---
 
 ## 🔧 What I Do
 
-- 🔍 Build and optimise automated testing frameworks, CI/CD pipelines, and tools
-- 💻 Develop and enhance customer-facing UIs using **React** and **Redux**
-- 🔧 Implement backend services using **Java**, **Spring Boot**, **Kafka**, and **DynamoDB**
-- ✅ Contribute across the SDLC — from ticket grooming to deployment
-- 🤝 Work in Agile cross-functional teams using GitLab, Jira, and Slack
+- 🔍 Build and optimize automated testing frameworks, CI/CD pipelines, and engineering tools
+- 💻 Develop responsive UIs with **React**, **Redux**, and accessible design patterns
+- 🛠️ Implement scalable backend APIs using **Java**, **Spring Boot**, **Kafka**, and **DynamoDB**
+- ✅ Own the SDLC end-to-end — from ticket grooming and design to release and monitoring
+- 🤝 Collaborate in Agile teams using GitLab, Jira, and Slack with frequent code reviews
 
 ---
 
 ## 📌 Key Highlights
 
-- ✅ Delivered features like **Bet Builder**, **Acca Winnings Boost**, **Base Pricing**
-- 🧪 Proficient in **TestCafe**, **Selenium**, **JUnit**, **Mockito**, **GitLab CI**
-- 📚 Strong understanding of **STLC**, **ATDD**, **SDLC**, and microservices principles
-- 💬 Active in code reviews, stand-ups, sprint planning, and retros
+- 🚀 Delivered mission-critical features like **Bet Builder**, **Acca Winnings Boost**, and **Base Pricing**
+- ⚙️ Skilled in **TestCafe**, **Selenium**, **JUnit**, **Mockito**, and **GitLab CI/CD**
+- 📚 Solid grasp of **STLC**, **ATDD**, **SDLC**, and **microservices** best practices
+- 💬 Contribute actively in sprint ceremonies, retros, and tech discussions
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages & Tools**  
-`Java` `JavaScript` `React` `Spring Boot` `Kafka` `Postman` `AWS` `TestCafe` `GitLab CI/CD` `DynamoDB` `Jira` `Slack`
+`Java` `JavaScript` `React` `Spring Boot` `Kafka` `Postman`  
+`AWS` `DynamoDB` `TestCafe` `Selenium` `GitLab CI/CD`  
+`Jira` `Slack` `IntelliJ IDEA`
 
 ---
 
-## 📢 Let’s Connect
-
-💼 [LinkedIn](https://www.linkedin.com/in/sarathrc)  
-📬 Drop me a message if you'd like to collaborate, share ideas, or just talk code!
-
----
-
-## 📁 Portfolio Folders
+## 📁 Developer Portfolio
 
 - 📄 [Feature Delivery Reports](./feature-delivery-reports/)
 - 📑 [Resume & Cover Letter](./resume-and-cover-letter/)
+
+---
+
+## 📢 Let's Connect
+
+🔗 [LinkedIn](https://www.linkedin.com/in/sarathrc)  
+📬 Open to opportunities, projects, and collaboration — feel free to reach out!
+
