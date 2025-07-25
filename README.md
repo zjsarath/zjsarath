@@ -37,6 +37,7 @@
 
 - 📄 [Feature Delivery Reports](./feature-delivery-reports/)
 - 📑 [Resume & Cover Letter](./resume-and-cover-letter/)
+- 📑 [Personal Projects](./personal-projects/)
 
 ---
 
