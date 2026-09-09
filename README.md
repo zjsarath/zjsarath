@@ -2,6 +2,7 @@
 
 🚀 Aspiring Software Developer | Software Quality Engineer at William Hill  
 🎓 Level 4 Software Developer Apprenticeship with QA Ltd (2025–2026)
+
 🎓 MSc in Financial Technology from Coventry University, London
 
 
